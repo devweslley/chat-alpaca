@@ -85,11 +85,7 @@ body {
   transform: scaleX(1.2);
 }
 
-h1 {
-  color: rgba(240, 248, 255, 0.295);
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 20px;
-}
+
 
 #clear-button {
   background-color: #1a1a1a;
@@ -103,4 +99,19 @@ h1 {
   position: fixed;
   left: 155px;
   transform: translateX(-100%);
+}
+
+.cornavbar {
+  background-color: rgb(5, 35, 61);
+
+}
+
+.corletranavbar {
+  background-color: #cfcfcf9a;
+  font-family: Arial, Helvetica, sans-serif;
+  border: black;
+  font-size: 20px;
+  color: #fff;
+  outline: 2px solid #000;
+  border-radius: 10px;
 }

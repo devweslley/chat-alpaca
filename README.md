@@ -9,7 +9,7 @@
 
 #### 1 **Instalação**
 
-- `npm run install`
+- `npm install`
 
 #### 2 **Iniciação**
 
